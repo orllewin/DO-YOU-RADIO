@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DO!!YOU!!</string>
+    <string name="play_radio">Play Radio</string>
+    <string name="stop_radio">Stop Radio</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="track_ids">Track IDs</string>
+    <string name="schedule">Schedule</string>
+    <string name="do_you_radio"><u>DO!! YOU!!! RADIO</u></string>
+    <string name="chatroom">Chatroom</string>
+</resources>
